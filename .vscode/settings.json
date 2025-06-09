@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "lesson_08"
+        "lesson_09"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
